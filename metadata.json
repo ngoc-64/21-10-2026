@@ -1,0 +1,6 @@
+{
+  "name": "LithoClean — Cleanroom Lithography & PM2.5 Telemetry",
+  "description": "High-precision cleanroom lithography environmental monitoring, WHO PM2.5 healthcare guidance, and live safety threshold simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
